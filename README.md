@@ -4,7 +4,7 @@ Welcome to my little corner of GitHub! 🚀
 
 ## 🛠️ What I Do  
 - 🖥️ Writing code that (hopefully) works  
-- 🌍 Building cool stuff with **React, Next.js, Angular, and Spring Boot**  
+- 🌍 Building cool stuff with **React, Next.js, and Spring Boot**  
 - 🛸 Occasionally lost in the world of **Docker, AWS, and databases**
 
 ## 🌱 Fun Facts  
