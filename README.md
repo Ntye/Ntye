@@ -12,11 +12,6 @@ Welcome to my little corner of GitHub! 🚀
 - ☕ Coffee does nothing to me, but a good playlist keeps me going 🎵  
 - 🛠️ "It works on my machine" is my favorite phrase
 
-  
-## 📈 GitHub Stats (Because Why Not?)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ntye&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ntye&layout=compact&theme=tokyonight)
 
 ## 📬 Want to Connect?  
 - 💼 LinkedIn: [Ntye Nina](https://www.linkedin.com/in/ntye/)
